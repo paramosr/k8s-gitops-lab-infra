@@ -1,0 +1,14 @@
+# Terraform
+.terraform/
+terraform.tfstate
+terraform.tfstate.*
+crash.log
+*.tfvars
+*.tfvars.json
+
+# Local files
+kind-cluster.yaml
+
+# OS/Editors
+.DS_Store
+*.swp
